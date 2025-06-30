@@ -33,15 +33,15 @@ The following BPMN 2.0 process maps outline the end-to-end in-store shopping exp
 
 | Figure | Description                              | Image                                                    |
 |----------|------------------------------------------|-----------------------------------------------------------|
-| 1      | Customer Journey Overview                 | ![Figure 1](figure1_customer_journey.png)       |
-| 2      | Check for Additional Stock                | ![Figure 2](figure2_check_additional_stock.png) |
-| 3      | Add to Shopping Cart                      | ![Figure 3](figure3_add_to_cart.png)           |
-| 4      | Move to Checkout                          | ![Figure 4](figure4_move_to_checkout.png)      |
-| 5      | Scan the Product                          | ![Figure 5](figure5_scan_product.png)          |
-| 6      | Process Payment                           | ![Figure 6](figure6_process_payment.png)       |
-| 7      | Request Lost Item Assistance             | ![Figure 7](figure7_request_lost_items.png)    |
-| 8      | Request for Refund                        | ![Figure 8](figure8_request_refund.png)        |
-| 9      | Exchange Product                          | ![Figure 9](figure9_exchange_product.png)      |
+| 1      | Customer Journey Overview                 | ![Figure 1](diagrams/figure1_customer_journey.png)       |
+| 2      | Check for Additional Stock                | ![Figure 2](diagrams/figure2_check_additional_stock.png) |
+| 3      | Add to Shopping Cart                      | ![Figure 3](diagrams/figure3_add_to_cart.png)           |
+| 4      | Move to Checkout                          | ![Figure 4](diagrams/figure4_move_to_checkout.png)      |
+| 5      | Scan the Product                          | ![Figure 5](diagrams/figure5_scan_product.png)          |
+| 6      | Process Payment                           | ![Figure 6](diagrams/figure6_process_payment.png)       |
+| 7      | Request Lost Item Assistance             | ![Figure 7](diagrams/figure7_request_lost_items.png)    |
+| 8      | Request for Refund                        | ![Figure 8](diagrams/figure8_request_refund.png)        |
+| 9      | Exchange Product                          | ![Figure 9](diagrams/figure9_exchange_product.png)      |
 
 ---
 
